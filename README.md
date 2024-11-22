@@ -1,4 +1,4 @@
-# Sales and Profit Analysis Report
+# Bike Sales Analysis and Visualization
 
 ## Overview
 This project provides a comprehensive analysis of sales and profit performance across different geographies, product categories, and customer segments. Using advanced data visualization techniques, the report highlights key insights to support strategic decision-making, such as identifying high-performing products, understanding geographical sales patterns, and clustering customers for better targeting.
