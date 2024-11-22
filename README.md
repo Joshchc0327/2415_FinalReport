@@ -18,13 +18,11 @@ This project provides a comprehensive analysis of sales and profit performance a
   ![image](https://github.com/user-attachments/assets/a77435fd-3962-448e-aceb-439019207294)
 
 #### Sales by Country
+  ![image](https://github.com/user-attachments/assets/18de5e8e-f3d0-4265-9c67-d9e03dcdadad)
 - **Legend:**
   - **Color Scale:** Darker colors represent higher revenue; lighter colors represent lower revenue.
   - **Geographical Boundaries:** Each country is shaded based on its total sales revenue.
-- **Visualization:**
-
-  ![image](https://github.com/user-attachments/assets/18de5e8e-f3d0-4265-9c67-d9e03dcdadad)
-
+    
 ---
 
 ### 2. Product Sales and Profitability Analysis
