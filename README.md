@@ -7,16 +7,17 @@ This project provides a comprehensive analysis of sales and profit performance a
 
 ## Sections 1: Geographical and Sales Distribution Analysis
 
-#### Geographic Distribution of Sales Data
+### Geographic Distribution of Sales Data
   ![image](https://github.com/user-attachments/assets/a77435fd-3962-448e-aceb-439019207294)
   
 **Legend:**
   - **Heat Intensity:** Brighter areas indicate a higher density of sales transactions; darker areas indicate lower density.
   - **Map Points:** Each point represents a location of recorded sales.
 
-#### Sales by Country
+### Sales by Country
   ![image](https://github.com/user-attachments/assets/18de5e8e-f3d0-4265-9c67-d9e03dcdadad)
-- **Legend:**
+
+**Legend:**
   - **Color Scale:** Darker colors represent higher revenue; lighter colors represent lower revenue.
   - **Geographical Boundaries:** Each country is shaded based on its total sales revenue.
     
