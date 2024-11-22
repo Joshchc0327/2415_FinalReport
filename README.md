@@ -78,5 +78,3 @@ The analysis provides actionable insights, including:
 This report equips stakeholders with the insights needed to optimize sales, improve customer engagement, and maximize profitability.
 
 ---
-
-Let me know if you'd like to adjust or expand on any part!
