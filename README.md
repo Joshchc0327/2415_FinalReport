@@ -11,6 +11,7 @@ This project provides a comprehensive analysis of sales and profit performance a
 
 #### Geographic Distribution of Sales Data
   ![image](https://github.com/user-attachments/assets/a77435fd-3962-448e-aceb-439019207294)
+  
 **Legend:**
   - **Heat Intensity:** Brighter areas indicate a higher density of sales transactions; darker areas indicate lower density.
   - **Map Points:** Each point represents a location of recorded sales.
