@@ -50,24 +50,22 @@ This project provides a comprehensive analysis of sales and profit performance a
   
 ---
 
-### 3. Customer Segmentation Analysis
+## Sections 3: Customer Segmentation Analysis
 
-#### Pairplot Including Order Quantity
-- **Legend:**
+### Pairplot Including Order Quantity
+![image](https://github.com/user-attachments/assets/41266dad-5f37-4e15-9dbc-b258af326cc1)
+
+ **Legend:**
   - **Colored Dots:** Represents data points categorized by country.
   - **Diagonal Plots:** Show distributions for individual variables like Revenue, Profit, etc.
   - **Non-Diagonal Plots:** Show relationships (scatter plots) between variables.
-- **Visualization:**
 
-  ![image](https://github.com/user-attachments/assets/41266dad-5f37-4e15-9dbc-b258af326cc1)
+### Customer Clustering Pairplot
+![image](https://github.com/user-attachments/assets/717fec81-564e-4ed8-b4c3-0183c3c6a513)
 
-#### Customer Clustering Pairplot
-- **Legend:**
+ **Legend:**
   - **Colored Dots:** Represents customer clusters identified by K-Means algorithm.
   - **Axes:** Customer Age, Order Quantity, Profit, and Revenue.
-- **Visualization:**
-
-  ![image](https://github.com/user-attachments/assets/717fec81-564e-4ed8-b4c3-0183c3c6a513)
 
 ---
 
