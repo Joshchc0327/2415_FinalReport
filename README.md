@@ -1,4 +1,4 @@
-# Bike Sales Analysis and Visualization
+# Bike Sales in Europe Analysis and Visualization
 
 ## Overview
 This project provides a comprehensive analysis of sales and profit performance across different geographies, product categories, and customer segments. Using advanced data visualization techniques, the report highlights key insights to support strategic decision-making, such as identifying high-performing products, understanding geographical sales patterns, and clustering customers for better targeting.
@@ -78,3 +78,6 @@ The analysis provides actionable insights, including:
 This report equips stakeholders with the insights needed to optimize sales, improve customer engagement, and maximize profitability.
 
 ---
+
+## Data Source
+The dataset used for this analysis is **[Bike Sales in Europe](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe/code)**.
