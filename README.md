@@ -5,9 +5,7 @@ This project provides a comprehensive analysis of sales and profit performance a
 
 ---
 
-## Sections
-
-### 1. Geographical and Sales Distribution Analysis
+## Sections 1: Geographical and Sales Distribution Analysis
 
 #### Geographic Distribution of Sales Data
   ![image](https://github.com/user-attachments/assets/a77435fd-3962-448e-aceb-439019207294)
